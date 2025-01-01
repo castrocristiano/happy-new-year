@@ -20,7 +20,7 @@ pip install colorama
 3. Execute o script com o seguinte comando:
 
 ```bash
-python ascii_fireworks.py
+python main.py
 ```
 
 ## Funcionalidades
@@ -28,12 +28,6 @@ python ascii_fireworks.py
 - Exibição animada de fogos de artifício com arte ASCII.
 - Mensagem colorida "FELIZ ANO NOVO!" no final.
 
-## Customização
-
-Você pode personalizar o script:
-
-- Alterando os designs de fogos de artifício na função `generate_fireworks`.
-- Modificando a mensagem exibida na função `display_message`.
 
 ## Captura de tela
 
